@@ -25,6 +25,11 @@ info_dict={
 
 print(type(info_dict))
 
+print(f'dictionary Key:-{info_dict.keys()} and values are:-{info_dict.values()}')
+
 
 tup=('ram','sham',213,4435.34)
 print(type(tup))
+
+
+button=True
